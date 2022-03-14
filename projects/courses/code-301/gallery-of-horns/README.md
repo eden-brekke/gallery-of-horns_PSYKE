@@ -68,3 +68,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+## Class 01 Lab 01 Comments 
+
+How much time you spent on the lab: 
+Today's lab was mostly just following along with the demo so to get it set up only took me about half an hour. <br>
+I then spent another half-hour on trying to render some royalty free images I found of a goat and a reindeer. I used this [link](https://www.codegrepper.com/code-examples/javascript/how+to+add+image+in+react+js) to reference how to add an image to a react program and then spent a chunk of time fiddling with how to make it work using the "this.props" functionality. 
