@@ -75,3 +75,48 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 How much time you spent on the lab: 
 Today's lab was mostly just following along with the demo so to get it set up only took me about half an hour. <br>
 I then spent another half-hour on trying to render some royalty free images I found of a goat and a reindeer. I used this [link](https://www.codegrepper.com/code-examples/javascript/how+to+add+image+in+react+js) to reference how to add an image to a react program and then spent a chunk of time fiddling with how to make it work using the "this.props" functionality. 
+
+## Class 02 Lab 01 Comments
+
+Number and name of feature: ____Feature 1 Display Images_____
+
+Estimate of time needed to complete: ___1hr__
+
+Start time: __2pm___
+
+Finish time: __2:30pm___
+
+Actual time needed to complete: ___30min__
+
+
+Number and name of feature: _Feature 2 Allow User to Vote for their favorite beast__
+
+Estimate of time needed to complete: __1hr___
+
+Start time: __also 2pm?___
+
+Finish time: ___2:30pm__
+
+Actual time needed to complete: __30min___
+
+
+
+Number and name of feature: _______Feature 3 Bootstrap_________
+
+Estimate of time needed to complete: _1hr____
+
+Start time: __2pm___
+
+Finish time: __2:30pm___
+
+Actual time needed to complete: __30min___
+
+Number and name of feature: _______Feature 4 Make things Pretty_________
+
+Estimate of time needed to complete: _1hr____
+
+Start time: __2:30pm___
+
+Finish time: _____
+
+Actual time needed to complete: _____

@@ -21,7 +21,7 @@ class HornedBeast extends React.Component {
     return (
       <article>
         <h2>{this.props.title}</h2>
-        <p> 😻I have {this.state.favorites} favorites!😻</p>
+        <p> 😻I have {this.state.favorites} favorites!💖</p>
         <Button onClick={this.handleFaves} className="fave-button">I love these horns!</Button>
         <img src={this.props.image_url}
           alt={this.props.title}
