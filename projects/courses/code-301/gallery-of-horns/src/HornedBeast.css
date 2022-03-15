@@ -1,8 +1,9 @@
 article {
-  border: 1px solid gray;
+  border: 5px double #4f405f;
   padding: 1vw;
   margin-bottom: 1vw;
   width: 16%;
+  border-radius: 5px;
 }
 article h2 {
   font-size: 0.9vw;
@@ -12,7 +13,7 @@ article h2 {
 article img {
   width: 100%;
   height: 50%;
-  border: 2px solid #92D0CC;
+  border: 4px double #92D0CC;
   border-radius: 5px;
 }
 article p {
@@ -22,7 +23,7 @@ article p {
   margin-bottom: .5rem;
   background-color:#92D0CC;
   padding: 7px;
-  border: 2px solid #D09BC6;
+  border: 2px solid #6d0359;
   border-radius: 5px;
   font-size: 0.7vw;
   font-weight: bold;
@@ -35,7 +36,7 @@ article p:last-of-type {
   margin-bottom: .5rem;
   background-color:#b292d0;
   padding: 7px;
-  border: 2px solid #bf9bd0;
+  border: 2px solid #4f405f;
   color: #4f405f;
   border-radius: 5px;
   font-size: 0.7vw;
@@ -49,6 +50,7 @@ article p:last-of-type {
   font-weight: bold;
   cursor: pointer;
   transition: 350ms;
+  border-color: #0e5a79;
 }
 
 .fave-button:hover {

@@ -113,10 +113,18 @@ Actual time needed to complete: __30min___
 
 Number and name of feature: _______Feature 4 Make things Pretty_________
 
-Estimate of time needed to complete: _1hr____
+Estimate of time needed to complete: _30min____
 
 Start time: __2:30pm___
 
-Finish time: _____
+Finish time: ___3pm_
 
-Actual time needed to complete: _____
+Actual time needed to complete: ___30min__
+
+### Lab 2 Comments 
+* A question within the context of today’s lab assignment
+  * I'm curious about the cards and modals to make the site more interactive, no specific question just eager to keep learning. 
+* An observation about the lab assignment, or related ‘Ah-hah!’ moment
+  * It took me a bit of time to get the title and description rendering, and I think my ah-hah was pretty simple in realizing that it was exactly the same way I got the images to render, kind of silly but felt good to get it working properly. 
+* How long you spent working on this assignment
+  * I spent about an hour working on this assignment overall. 
